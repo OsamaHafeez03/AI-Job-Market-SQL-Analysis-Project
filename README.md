@@ -22,6 +22,7 @@ The analysis script is divided into logical sections, each targeting a specific 
 
 ### 2. Remote Work & Location Analysis
 This section investigates the prevalence of remote work and geographical trends.
+ 
   Work Setting Distribution: Categorizes jobs based on remote_ratio (Fully Remote, Hybrid, On-site) and calculates the count and percentage of total jobs for each category.
   
   Top 10 Job Locations: Aggregates job postings by company_location to find the top 10 countries with the most AI job opportunities.
@@ -36,6 +37,7 @@ This section investigates the prevalence of remote work and geographical trends.
 
 ### 3. Skill & Experience Demand
 This section dives into the specific qualifications employers are seeking.
+ 
   Top skills for 'Data' related jobs.
   
   Average salary by  experience level.
@@ -44,6 +46,7 @@ This section dives into the specific qualifications employers are seeking.
 
 ### 4. Company & Market Trends
 This section analyzes the data from a corporate perspective.
+ 
   Average Salary by Company Size.
   
   Trend of job postings over time (by month)
