@@ -1,2 +1,2 @@
 # AI-Job-Market-SQL-Analysis-Project
-This repository provides a comprehensive SQL-based analysis of the job market in the Artificial Intelligence (AI) and Data sectors. It uses a clean, structured CSV dataset (ai_job_dataset.csv) and a detailed SQL script (SQL Script.sql)  containing multiple queries to extract actionable insights.
+This repository contains a comprehensive SQL-based analysis of the AI job market, based on a provided dataset of job postings. The SQL script is designed to extract key insights related to salary benchmarks, remote work trends, required skills, and company-specific patterns.
