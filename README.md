@@ -1,14 +1,13 @@
-# AI-Job-Market-SQL-Analysis-Project
-This repository contains a comprehensive SQL-based analysis of the AI job market, based on a provided dataset of job postings. The SQL script is designed to extract key insights related to salary benchmarks, remote work trends, required skills, and company-specific patterns.
+# AI-Job-Market-Analysis-Project
+This repository contains a comprehensive SQL-based analysis of the AI job market, based on a provided dataset of job postings. Extract key insights related to salary benchmarks, remote work trends, required skills, and company-specific patterns.
 
 ## Project Overview
-The goal of this analysis is to leverage SQL to query a dataset of AI job postings and answer critical questions for job seekers, employers, and market analysts. The queries are structured to move from high-level salary overviews to more granular insights into skill requirements and market trends.
+The goal of this analysis  dataset of AI job postings and answer critical questions for job seekers, employers, and market analysts. The queries are structured to move from high-level salary overviews to more granular insights into skill requirements and market trends.
 
 ## Data Source
 File: ai_job_dataset.csv
-Assumed Table Name: ai_job (as referenced in SQL Script.sql)
 
-## SQL Analysis Breakdown
+## Analysis Breakdown
 The analysis script is divided into logical sections, each targeting a specific aspect of the job market.
 
 ### 1. Salary Benchmarking
