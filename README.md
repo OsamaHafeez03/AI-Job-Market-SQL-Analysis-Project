@@ -1,5 +1,5 @@
 # AI-Job-Market-Analysis-Project
-This repository contains a comprehensive SQL-based analysis of the AI job market, based on a provided dataset of job postings. Extract key insights related to salary benchmarks, remote work trends, required skills, and company-specific patterns.
+This repository contains a comprehensive analysis of the AI job market, based on a provided dataset of job postings. Extract key insights related to salary benchmarks, remote work trends, required skills, and company-specific patterns.
 
 ## Project Overview
 The goal of this analysis  dataset of AI job postings and answer critical questions for job seekers, employers, and market analysts. The queries are structured to move from high-level salary overviews to more granular insights into skill requirements and market trends.
